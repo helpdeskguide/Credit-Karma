@@ -9,7 +9,6 @@ How to Use Credit Karma to Improve Your Credit Score
    :alt: Credit Karma
    :target: https://fm.ci/?aHR0cHM6Ly9jcmVkaXRrYXJtYS1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
-
 .. raw:: html
 
     </div>
