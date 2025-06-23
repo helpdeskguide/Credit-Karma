@@ -41,7 +41,7 @@ Step-by-Step Guide: How to Improve Your Credit Score with Credit Karma
 
 1. **Sign Up** 
 
-   Visit `www.creditkarma.com <https://www.creditkarma.com>`_ or download the mobile app.  
+   Visit `www.creditkarma.com <#>`_ or download the mobile app.  
 
    Create your free account and verify your identity.
 
